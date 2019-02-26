@@ -1,4 +1,4 @@
-package org.springframework.boot;
+package org.hemi.boot;
 
 
 import org.springframework.boot.SpringApplication;
