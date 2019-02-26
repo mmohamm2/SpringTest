@@ -43,7 +43,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>org/hemi/boot/SpringTestApp</mainClass>
+            <mainClass>org/springframework/boot/SpringTestApp</mainClass>
           </manifest>
         </archive>
       </configuration>
